@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Cat Facts</h1>
+      <h1> Cat Facts 🐱</h1>
       <ul>
         {catFacts.map((fact, index) => (
           <li key={index}>
